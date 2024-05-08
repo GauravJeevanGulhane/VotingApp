@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+form
+{
+	margin:100px auto;
+	width: 50%;
+}
+form input
+{
+	height: 40px;
+	width: 80%;
+}
